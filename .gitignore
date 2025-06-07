@@ -1,0 +1,9 @@
+# Angular
+node_modules
+dist
+
+# Node
+.env
+
+# VSCode
+.vscode
