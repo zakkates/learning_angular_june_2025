@@ -1,0 +1,8 @@
+{
+  "scss.format.maxPreserveNewLines": 2,
+  "scss.completion.completePropertyWithSemicolon": true,
+  "scss.lint.unknownVendorSpecificProperties": "warning",
+  "scss.lint.important": "warning",
+  "liveSassCompile.settings.excludeList": ["**/node_modules/**", "**/*.scss.d.ts"],
+  "liveSassCompile.settings.formats": []
+}
