@@ -1,3 +1,6 @@
+# General (Mac)
+.DS_Store
+
 # Angular
 node_modules
 dist
